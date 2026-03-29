@@ -296,7 +296,7 @@ sequenceDiagram
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/manushiparajuli/404StressNotFound.git
+git clone https://github.com/Binit17/Within.git
 cd 404StressNotFound
 
 # 2. Install frontend dependencies
