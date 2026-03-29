@@ -420,6 +420,21 @@ within/
 
 ---
 
+
+## Team
+
+**Team 404StressNotFound** — US-Nepal Hackathon 2026
+
+| Member | Role | Contributions |
+|--------|------|---------------|
+| **Manushi Parajuli** | Team Lead, UI/UX Designer | Team coordination, project planning, UI/UX design system, component architecture, user flow optimization |
+| **Sanskriti Poudel** | Product Strategist, UI/UX Designer | Concept ideation, feature specification, UI/UX design, gamification mechanics, breathing exercises module,  cultural contextualization |
+| **Anjal Poudel** | Frontend Developer, Research | Frontend component development, resources page, mental health research & content curation |
+| **Rebika Parajuli** | Frontend Developer, QA & Testing | Page development, responsive design implementation, cross-browser testing, user experience validation |
+| **Binit KC** | Backend Engineer, Systems Integration | FastAPI backend architecture, Gemini AI integration, multi-modal sensing engine (MediaPipe + Web Audio + SpeechRecognition), real-time biomarker pipeline, frontend-backend integration,  |
+
+---
+
 ## License
 
 This project is open source under the [MIT License](LICENSE).
@@ -429,3 +444,4 @@ This project is open source under the [MIT License](LICENSE).
 <div align="center">
 <sub>Built with 🧠 + ❤️ for mental health by Team 404StressNotFound</sub>
 </div>
+
